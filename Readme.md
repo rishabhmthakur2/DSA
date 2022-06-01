@@ -8,3 +8,4 @@
 | 2022/05/26 | Three Number Sum | [`Arrays`](Arrays) `Hashmaps`| [Algoexpert](https://www.algoexpert.io/questions/three-number-sum) | [File](Arrays/threeNumberSum.py) |
 | 2022/05/27 | Branch Sum | [`Trees`](Trees) [`Binary Trees`](Trees/BinaryTrees)| [Algoexpert](https://www.algoexpert.io/questions/branch-sums) | [File](Trees/BinaryTrees/branchSums.py) |
 | 2022/05/28 | Validate Subsequence | [`Arrays`](Arrays)| [Algoexpert](https://www.algoexpert.io/questions/validate-subsequence) | [File](Arrays/validateSubsequence.py) |
+| 2022/05/29 | Sorted Square Array | [`Arrays`](Arrays)| [Algoexpert](https://www.algoexpert.io/questions/sorted-squared-array) | [File](Arrays/sortedSquaredArray.py) |
