@@ -17,3 +17,6 @@
 | 11 | 2022/06/06 | Breadth-First Search | [`Graphs`](Graphs) | [Algoexpert](https://www.algoexpert.io/questions/breadth-first-search) | [File](Graphs/breadthFirstSearch.py) |
 | 12 | 2022/06/06 | Depth-First Search | [`Graphs`](Graphs) | [Algoexpert](https://www.algoexpert.io/questions/depth-first-search) | [File](Graphs/depthFirstSearch.py) |
 | 13 | 2022/06/10 | Move Element To End | [`Arrays`](Arrays) | [Algoexpert](https://www.algoexpert.io/questions/move-element-to-end) | [File](Arrays/moveElementToEnd.py) |
+| 14 | 2022/08/01 | Find Closest Value in BST | [`Trees`](Trees) | [Algoexpert](https://www.algoexpert.io/questions/find-closest-value-in-bst) | [File](Trees/findClosestValueInBST.py) |
+| 15 | 2022/08/01 | Non Constructible Change | [`Arrays`](Arrays) | [Algoexpert](https://www.algoexpert.io/questions/non-constructible-change) | [File](Arrays/nonConstructibleChange.py) |
+| 16 | 2022/08/02 | Node Depths | [`Trees`](Trees) | [Algoexpert](https://www.algoexpert.io/questions/node-depths) | [File](Trees/nodeDepths.py) |
